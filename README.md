@@ -79,4 +79,31 @@ User experience is at the heart of any great product. In a booking system:
 
 ---
 
+### 🎨 Color Styles
+
+- 🔴 **Primary:** `#FF5A5F`  
+- 🟢 **Secondary:** `#008489`  
+- ⚪ **Background:** `#FFFFFF`  
+- ⚫ **Text:** `#222222`  
+- ⚫ **Secondary Text:** `#717171`  
+
+---
+
+### ✍️ Typography
+
+- 🅰️ **Primary Font:** Circular, Medium (500), 16px  
+- 🅰️ **Headings:** Circular, Bold (700), 24px–32px  
+- 🅰️ **Secondary Text:** Circular, Book (400), 14px  
+
+---
+
+### 🧠 Importance of Identifying Design Properties
+
+Understanding and documenting design properties such as **color styles** and **typography** is essential for:
+
+- ✅ Maintaining **consistency** across all pages and components  
+- ✅ Making handoff between **designers and developers** smoother  
+- ✅ Enhancing **accessibility** and readability  
+- ✅ Speeding up development by reducing guesswork  
+- ✅ Ensuring the product aligns with brand and user experience standards  
 
