@@ -123,3 +123,28 @@ A successful project requires clear roles and strong collaboration. Here's a bre
 | ⏱️ **Scrum Master**       | Facilitate agile ceremonies (stand-ups, retrospectives), remove blockers, and ensure the team follows agile principles. |
 
 Each team member plays a vital role in ensuring the delivery of a high-quality, user-friendly, and scalable accommodation booking application.
+
+## 🧩 UI Component Patterns
+
+To build a consistent and reusable frontend for the AirBnB Clone project, we are planning the following key UI components:
+
+### 🔝 Navbar
+- **Logo** – Represents the brand identity.
+- **Search Bar** – Allows users to search for properties.
+- **User Navigation** – Includes login, profile, and settings options.
+- **Responsive Menu** – Adapts layout for different screen sizes (mobile/tablet/desktop).
+
+### 🏘️ Property Card
+- **Property Image** – Visually represents the listing.
+- **Basic Details** – Displays key information like price, location, and rating.
+- **Favorite Button** – Allows users to save properties for later.
+- **Responsive Layout** – Ensures cards adapt across devices.
+
+### 👣 Footer
+- **Site Links** – Navigation to major sections (e.g., About, Contact, Terms).
+- **Company Information** – Includes mission or background blurbs.
+- **Social Media Links** – Quick access to company social media pages.
+- **Copyright** – Legal ownership and branding.
+
+Each component will be built with reusability and consistency in mind to maintain a scalable, professional design system across the entire web application.
+
