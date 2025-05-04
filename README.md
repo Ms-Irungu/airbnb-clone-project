@@ -107,3 +107,19 @@ Understanding and documenting design properties such as **color styles** and **t
 - ✅ Speeding up development by reducing guesswork  
 - ✅ Ensuring the product aligns with brand and user experience standards  
 
+## 🧑🏾‍🤝‍🧑🏿 Project Roles and Responsibilities
+
+A successful project requires clear roles and strong collaboration. Here's a breakdown of each team member's role and their contribution to our AirBnB clone project:
+
+| Role               | Responsibilities                                                                 |
+|--------------------|----------------------------------------------------------------------------------|
+| 🧑‍💼 **Project Manager**     | Oversees project timeline, coordinates the team, manages deliverables, and ensures all milestones are met. |
+| 💻 **Frontend Developers** | Develop and maintain the user interface, build responsive components, and ensure a seamless user experience. |
+| 🖥️ **Backend Developers**  | Create and manage server-side logic, APIs, and database schemas to support frontend functionality. |
+| 🎨 **Designers**           | Craft mockups and prototypes using Figma, define the design system, and ensure high-quality UX/UI. |
+| 🧪 **QA/Testers**          | Write test cases, perform manual and automated testing, and report bugs or inconsistencies. |
+| 🛠️ **DevOps Engineers**   | Handle deployment processes, maintain CI/CD pipelines, and manage server infrastructure and environments. |
+| 📌 **Product Owner**       | Define product requirements, prioritize features, and serve as the voice of the user and stakeholders. |
+| ⏱️ **Scrum Master**       | Facilitate agile ceremonies (stand-ups, retrospectives), remove blockers, and ensure the team follows agile principles. |
+
+Each team member plays a vital role in ensuring the delivery of a high-quality, user-friendly, and scalable accommodation booking application.
